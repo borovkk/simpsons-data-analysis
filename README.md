@@ -1,4 +1,4 @@
-# "The Simpsons" Sitcom Data Analytcs 
+# "The Simpsons" Sitcom Data Analytics 
 
 #### Inspired by Jake Daniels [Full article on DataCritics](https://datacritics.com/2018/08/15/build-a-ggplot-the-fall-of-the-simpsons/)
 #### Adapted from Dr. Follis
