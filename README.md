@@ -21,6 +21,9 @@ library(dplyr)
 
 ## Data Scraping
 
+##### Inspired by Jake Daniels
+[Link](https://datacritics.com/2018/08/15/build-a-ggplot-the-fall-of-the-simpsons/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
+
 * *Scraping IMDB "The Simpsons"* - [IMDB-R-code](https://github.com/borovkk/simpsons-data-analysis/blob/master/simpsons.imdb.scrape.R)
 * *Scraping Wikipedia "The Simpsons"* - [Wiki-R-code](https://github.com/borovkk/simpsons-data-analysis/blob/master/simpsons.wikipedia.R)
 * *Scraping TV.com "The Simpsons"* - [TV.com-R-code](https://github.com/borovkk/simpsons-data-analysis/blob/master/simpsons.tv.com.R)
