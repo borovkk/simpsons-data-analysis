@@ -1,3 +1,5 @@
+# Inspired by JAKE DANIELS
+#https://datacritics.com/2018/08/15/build-a-ggplot-the-fall-of-the-simpsons/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
 #Adapted from Dr.Follis
 # ---------------------------------------------------------
 # Step 1: Import Library
